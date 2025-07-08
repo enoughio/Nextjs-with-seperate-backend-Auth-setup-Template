@@ -1,6 +1,4 @@
-`<CodeProject id="nextjs-bff-template">````markdown file="README.md"
-...
-```
+
 
 ### Route Protection Flow
 
